@@ -1,5 +1,4 @@
-# Vulnerability Detection in Solidity Smart Contracts
-### A Comparison of Tools and Services
+# Vulnerability Detection in Solidity Smart Contracts - A Comparison of Tools and Services
 
 ### Bachelor Thesis in "Applied Computer Science", January 8, 2021
 
